@@ -11,7 +11,7 @@ namespace DB_Test
 {
     internal static class DBHelper
     {
-        private static string contankgame = "server=127.0.0.1;port=3306;database=tankgame;user=root;password=3102843790;";
+        private static string contankgame = "server=127.0.0.1;port=3306;database=tankgame;user=root;password=你的密码;";
         //用于返回的账号列表信息
         private static List<UserData> userDatasList = new List<UserData>();
 
